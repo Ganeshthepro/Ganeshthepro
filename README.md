@@ -1,24 +1,108 @@
 <h1 align="center">Hi 👋, I'm Ganesh Navale</h1>
-<h3 align="center">Welcome to my GitHub! I am Ganesh Navale. I am currently in my final year pursuing a bachelor's degree. I am focusing on learning MERN stack development. 🎯 I'm focusing on learning MERN stack development. 🤝🏻 I'm looking forward to collaborating on MERN development opportunities or any open-source projects that could use some help!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshthepro&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshthepro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshthepro" alt="ganeshthepro" /></a> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ganesh-nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-nav" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ganu121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ganu121" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ganeshnawale29003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ganeshnawale29003" height="30" width="40" /></a>
+<p align="center">
+  🚀 Full-Stack Developer | MERN | .NET C# | Rust | Cloud | Competitive Programmer
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganeshthepro&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshthepro" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshthepro&show_icons=true&locale=en&layout=compact" alt="ganeshthepro" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshthepro&show_icons=true&locale=en" alt="ganeshthepro" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshthepro&" alt="ganeshthepro" /></p>
+- 🎓 Final-year B.Tech student, passionate about **system design, backend engineering, and building scalable applications**.
+- 💻 Focusing on **MERN stack**, **.NET C# backend**, **Rust system/network programming**, and **Supabase integrations**.
+- 🚀 Building real-world projects like **Marketplace**, **SocialVit**, and CLI monitoring tools in Rust.
+- 🥇 Active **competitive programmer** on **Codeforces, LeetCode, and CodeChef**.
+- ☁️ Exploring **AWS & GCP** for scalable deployments and DevOps practices.
+- 🤝 Open to **internships, collaborations, and open-source contributions**.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ganesh-nav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codeforces.com/profile/ganu121" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%231f8acb.svg?&style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.leetcode.com/ganeshnawale29003" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:ganeshnawale29003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?&style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?&style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?&style=for-the-badge&logo=java&logoColor=white)
+
+### 🛠️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?&style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?&style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?&style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?&style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🛡️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshthepro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ganesh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshthepro&theme=tokyonight&hide_border=true" alt="Ganesh's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshthepro&layout=compact&theme=tokyonight&hide_border=true" alt="Ganesh's Top Languages" />
+</p>
+
+---
+
+## 🚀 Recent Projects
+
+- **[Marketplace](https://github.com/Ganeshthepro/Marketplace)** – MERN-based online marketplace with user roles, weather API integration, and Stripe payments.
+- **[SocialVit](https://github.com/Ganeshthepro/SocialVit)** – A social media platform with scalable architecture and real-time user engagement.
+- **Rust Discovery Tools** – Building lightweight CLI tools for SNMP, SSH, and network discovery in Rust.
+- **.NET C# API Services** – REST APIs with MongoDB and Supabase integrations, supporting scalable microservice architectures.
+
+---
+
+## ✨ Let's Collaborate!
+💡 Open to **internships, open-source contributions, and collaboration opportunities** in:
+- MERN and .NET backend projects
+- Rust CLI and network utilities
+- Cloud and serverless deployments (AWS/GCP/Supabase)
+- Competitive programming initiatives
+
+Feel free to **connect, fork, or drop a message if you have an exciting project! 🚀**
+
+---
+
